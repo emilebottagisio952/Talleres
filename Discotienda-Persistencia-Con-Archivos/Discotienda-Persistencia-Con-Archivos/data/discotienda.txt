@@ -1,0 +1,6 @@
+Thriller;Michael Jackson;1982
+Thriller;5;57;Pop
+Beat It;4;18;Pop
+Black in Black;AC/DC;1980
+Hells Bells;5;12;Rock
+Shoot to Thrill;5;17;Rock
